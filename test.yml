@@ -1,0 +1,14 @@
+name:  abc
+age : 30
+address: " dggf:gfdhg"
+active: true
+key:
+  key: value 
+  key2: 333
+  key3:
+    key: value 
+    key2: value
+array: 
+  - item1
+  - item2 
+  - {key : value }
